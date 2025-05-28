@@ -1,10 +1,10 @@
 let score='33'
 
-console.log(typeof(score));
+// console.log(typeof(score));
 
 let valueInNumber=Number(score)
 
-console.log(typeof(valueInNumber));
+// console.log(typeof(valueInNumber));
 
 
 //"12" easily convert
@@ -13,7 +13,7 @@ console.log(typeof(valueInNumber));
 
 let isLoggedIn='33'
 
-console.log(typeof(isLoggedIn));
+// console.log(typeof(isLoggedIn));
 
 let booleanisLoggedIn=Boolean(isLoggedIn)
 
@@ -23,12 +23,26 @@ let booleanisLoggedIn=Boolean(isLoggedIn)
 
 let someNumber=33
 
-console.log(typeof(someNumber));
+// console.log(typeof(someNumber));
 
 let stringsomeNumber=String(someNumber)
 
-console.log(typeof(stringsomeNumber));
+// console.log(typeof(stringsomeNumber));
 
 //33 string
 //'' null
 // true string
+
+// ******Operations*********
+let value=3
+let negvalue=-value
+// console.log(negvalue);
+
+// console.log('1' + 2);
+// console.log(1 + '2');
+// console.log(1 + '2');
+// console.log('1' + 2 +2);
+// console.log(1 + 2 + '2');
+
+
+
